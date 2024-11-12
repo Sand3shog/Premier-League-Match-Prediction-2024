@@ -6,14 +6,14 @@ This project aims to predict the outcomes of Premier League matches using machin
 
 # Features
 Data Preprocessing: Includes handling of match details such as venue, opponent, and date.
+
 Feature Engineering: Adds features like venue codes, opponent codes, match timing, and day of the week for better prediction accuracy.
+
 Model Training: Utilizes a Random Forest Classifier for predicting match outcomes.
+
 Evaluation Metrics: Provides accuracy and precision scores for model evaluation.
+
 Rolling Averages: Implements rolling averages for team statistics (goals, shots, etc.) to improve predictions.
-Technologies Used
-Python: Core programming language.
-Scikit-learn: Machine learning model training and evaluation.
-Pandas & NumPy: Data preprocessing and manipulation.
 
 # How It Works
 Data Preparation:
